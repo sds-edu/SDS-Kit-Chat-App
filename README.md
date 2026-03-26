@@ -22,7 +22,7 @@ A starter repository for the [SDS WebSocket Guide](https://github.com/sds-edu/SD
 ## Project Structure
 
 - `server/server.js`: Main Express application with Redis integration placeholders.
-- `client/`: Frontend static files.
+- `client/`: Frontend files.
 
 ## Instructions
 
